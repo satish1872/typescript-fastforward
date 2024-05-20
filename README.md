@@ -1,1 +1,1 @@
-# typescript-fastforward
+# typescript-fast forward
